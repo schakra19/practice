@@ -1,0 +1,16 @@
+Jan 5, 2016
+- Segregate even and odd no. in an array
+- Segregate 0s and 1s in a binary array 
+- Sort an array of 0s, 1s and 2s (Dutch National Flag problem) 
+- Sort an array with many repititions (IMP)
+- static methods in Java can be called without instantiating a class 
+- dynamic arrays are essentialy made of static arrays and their sizes should not be increased frequently as the process
+  of creating a  new array and moving all elements to new array and deleting the old one make it super inefficient 
+- how to use memcpy to copy contents of one array to another in C
+- why functions like memcpy, memset are in string.h and not in stdlib.h?
+- Create a product array such that prod[i] is product of all array element except ith element (do not use div operator)
+
+Jan 6, 2016
+- Merge sort 
+- Merge sort for Linked lists
+ 
