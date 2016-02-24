@@ -1,3 +1,6 @@
+/* Given an array of integers where every numbers occurs
+even number of times except 2, find those two numbers */
+
 public class TwoOdd{
 
 	public static void twoOdd(int[] arr){
