@@ -1,3 +1,5 @@
+/* Given two arrays, find the union and intersection 
+of elements of both arrays */
 public class UnionIntersection{
 
 	static void unionSorted(int a[], int b[]){
