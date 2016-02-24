@@ -1,3 +1,4 @@
+/* Miniature Spell checker*/
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
