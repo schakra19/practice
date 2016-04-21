@@ -1,4 +1,6 @@
 //Program to find maximum profit by buying and selling stocks at most twice
+//Runtime - O(n), Space - O(n)
+//Programming Paradigm - Dynamic Programming
 package practice;
 
 public class StocksTwo {
